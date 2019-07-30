@@ -1,3 +1,7 @@
+"""
+https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5
+"""
+
 import glob 
 import os
 import cv2

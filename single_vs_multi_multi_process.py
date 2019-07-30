@@ -1,4 +1,8 @@
 """
+https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5
+"""
+
+"""
 Split the list of jpg files into 4 smaller groups.
 Run 4 separate instances of the Python interpreter.
 Have each instance of Python process one of the 4 smaller groups of data.
