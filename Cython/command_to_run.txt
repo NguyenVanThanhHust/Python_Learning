@@ -1,0 +1,9 @@
+method1: write example_py_1.py + example_py_2.py then run
+python compile.py build_ext --inplace
+
+method 2: write example_cpy_pyx.pyx then run
+python setup.py build_ext --inplace
+python setup_cdef.py build_ext --inplace
+
+test
+python test.py
