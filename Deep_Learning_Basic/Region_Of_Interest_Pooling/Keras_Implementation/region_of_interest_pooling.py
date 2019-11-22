@@ -41,7 +41,7 @@ class ROIPoolingLayer(Layer):
 
   def call(self, x):
     """
-    Map the input tensorf of the ROI layer to its output
+    Map the input tensor of the ROI layer to its output
 
     # Parameters
       x[0] -- Convolutional feature map tensor,
