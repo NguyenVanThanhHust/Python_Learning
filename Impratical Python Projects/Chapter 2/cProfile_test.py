@@ -1,5 +1,5 @@
 import cProfile
-import Project_3_Finding_Palingrams_optimized
+import finding_palingrams_optimized
 
 if __name__ == "__main__":
-    cProfile.run('Project_3_Finding_Palingrams_optimized.get_list_panlidrome()')
+    cProfile.run('finding_palingrams_optimized.get_list_panlidrome()')

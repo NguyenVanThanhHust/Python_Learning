@@ -1,7 +1,7 @@
 import os
 import sys
 
-from Project_1_Load_Dictionary import load_file
+from load_dictionary import load_file
     
 file_name = "12dicts-6.0.2/American/2of12.txt"
 text = load_file(file_name)
