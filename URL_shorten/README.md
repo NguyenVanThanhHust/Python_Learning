@@ -1,1 +1,0 @@
-Learn [build-a-python-url-shortener-with-fastapi](from https://realpython.com/build-a-python-url-shortener-with-fastapi/)
