@@ -1,0 +1,1 @@
+Learn from https://realpython.com/django-migrations-a-primer/
